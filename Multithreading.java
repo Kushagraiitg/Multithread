@@ -1,6 +1,6 @@
 package com.example;
 
-public class Multithreading extends Thread{
+public class Multithreading implements Runnable{
     
 
     @Override
